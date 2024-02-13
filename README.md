@@ -1,2 +1,0 @@
-# TallerWeb
-Sistema Taller Web
